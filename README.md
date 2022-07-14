@@ -25,3 +25,7 @@ Dentro del back-end no se tiene una base de datos basada en servidor. Se debe ap
 Hacer una solución de un aplicativo que maneje Listas de listas, argumentar los aspectos de mejora y aplicar algunas tpecnica de regactorización. Resolver de forma individual, aplicar los commit para cada paso que se realice en la refactorización.
 
 Realizar la siguiente representación donde se tiene TO-DO List agrupado en listas.
+
+## Video
+
+Video de la explicacion [aqui](https://youtu.be/RHNGh2IgWmg)
